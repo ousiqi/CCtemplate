@@ -1,2 +1,2 @@
 # CCtemplate
-a template of human corpus callosum 
+  This is a collection of templates of human corpus callosum. We collected high-quality dMRI data from 44 Chinese healthy young adults. Using the QA-based tractography from DSI for the first time, here we provided fine-detailed and callosal templates including homologous transcallosal tracts and callosal topographies, which were corresponding to 41 macro-anatomic and 101 long-range function-connectional cortical parcellations, respectively. They were freely available for potential clinical usage as well as brain research.
